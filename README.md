@@ -98,7 +98,7 @@ Where:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/YourUsername/SafeDrive_DFA_Dashboard.git
+   git clone https://github.com/nishtobehonest/SafeDrive_DFA_Dashboard.git
    cd SafeDrive_DFA_Dashboard
    ```
 
